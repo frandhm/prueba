@@ -15,11 +15,11 @@ while True:
     if opc == 1:
         registrar_pedido()
     elif opc == 2:
-        pass
+        lista_pedidos()
     elif opc == 3:
-        pass
+        buscar_pedidos()
     elif opc == 4:
-        pass
+        imprimirHoja()
     elif opc == 5:
         salir()
     else:
